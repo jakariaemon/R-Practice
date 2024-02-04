@@ -1,1 +1,1 @@
-# Variour chart plotting guide using R
+# Various chart plotting guide using R
